@@ -1,0 +1,7 @@
+[
+  {"id": "t_001", "type": "research", "search_term": "Dental Check Up", "local_searches": 190, "locality": "Koramangala"},
+  {"id": "t_002", "type": "dip", "metric": "orders", "change_pct": -23, "period": "last_7d"},
+  {"id": "t_003", "type": "spike", "metric": "views", "change_pct": 42, "period": "last_24h"},
+  {"id": "t_004", "type": "festival", "festival": "Eid al-Adha", "days_until": 3},
+  {"id": "t_005", "type": "recall", "last_visit_days": 45, "customer_segment": "lapsed"}
+]

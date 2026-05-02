@@ -1,0 +1,46 @@
+[
+  {
+    "id": "m_001_drmeera",
+    "identity": {
+      "id": "m_001_drmeera",
+      "name": "Dr. Meera Dental Clinic",
+      "category": "dentist",
+      "locality": "Koramangala, Bengaluru",
+      "owner": "Dr. Meera Sharma"
+    },
+    "performance": {
+      "avg_rating": 4.6,
+      "total_reviews": 214,
+      "monthly_views": 1820,
+      "repeat_customer_rate": 0.38,
+      "orders_last_30d": 47,
+      "orders_prev_30d": 61
+    },
+    "offers": [
+      {"id": "o1", "title": "Dental Check-Up @ ₹299", "original_price": 800, "discount_pct": 63, "active": true},
+      {"id": "o2", "title": "Teeth Whitening @ ₹1499", "original_price": 3000, "discount_pct": 50, "active": true}
+    ]
+  },
+  {
+    "id": "m_002_glamour",
+    "identity": {
+      "id": "m_002_glamour",
+      "name": "Glamour Salon",
+      "category": "salon",
+      "locality": "Indiranagar, Bengaluru",
+      "owner": "Priya Kapoor"
+    },
+    "performance": {
+      "avg_rating": 4.4,
+      "total_reviews": 189,
+      "monthly_views": 2300,
+      "repeat_customer_rate": 0.52,
+      "orders_last_30d": 88,
+      "orders_prev_30d": 72
+    },
+    "offers": [
+      {"id": "o1", "title": "Bridal Package @ ₹4999", "original_price": 8000, "discount_pct": 37, "active": true},
+      {"id": "o2", "title": "Hair Spa + Colour @ ₹1799", "original_price": 2800, "discount_pct": 36, "active": true}
+    ]
+  }
+]
